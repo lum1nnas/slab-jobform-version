@@ -1,0 +1,8 @@
+[
+    {
+        "script": "slab-jobform",
+        "version": "1.0.1",
+        "changelog": "- Added new feature X\n- Fixed issue Y",
+        "download_link": "https://example.com/slab-jobform-1.0.1.zip"
+    }
+]
